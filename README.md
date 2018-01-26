@@ -1,7 +1,7 @@
-"# CSC131" 
 # CSC131 Assignment 1
+## Resume
 
-Andrew Vang
+### Andrew Vang
 
 ### Experience
 Experience in Python, C++, Unix, and Java
